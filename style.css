@@ -16,15 +16,15 @@ main{
 }
 
 h1{
-    padding: 1rem 2rem;
+    padding: 0.8rem 1.8rem;
     background-color: #333;
     color: #efefef;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 button{
-    padding: 1rem 2rem;
-    border-radius: 1rem;
+    padding: 0.8rem 1.8rem;
+    border-radius: 0.8rem;
     font-size: 1.4rem;
     margin-top: 1rem;
     border: none;
